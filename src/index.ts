@@ -97,6 +97,14 @@ app.get('/', (c) => {
 </head>
 <body class="min-h-screen gradient text-slate-50">
   <div class="max-w-5xl mx-auto px-4 py-10 space-y-8">
+    <div class="flex items-center justify-center mb-8">
+      <div class="text-center">
+        <h1 class="text-6xl font-bold bg-gradient-to-r from-emerald-400 via-teal-300 to-blue-400 bg-clip-text text-transparent mb-2">
+          BankReview
+        </h1>
+        <div class="h-1 w-48 mx-auto bg-gradient-to-r from-emerald-400 via-teal-300 to-blue-400 rounded-full"></div>
+      </div>
+    </div>
     <header class="flex flex-col gap-3">
       <p class="text-sm uppercase tracking-[0.3em] text-emerald-300">Tema II · Phishing</p>
       <h1 class="text-4xl sm:text-5xl font-semibold leading-tight">Analizador simple de correos sospechosos</h1>
