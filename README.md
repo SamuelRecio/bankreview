@@ -3,13 +3,28 @@
 Aplicación Hono + Bun para analizar correos sospechosos de phishing usando un diccionario de palabras ponderadas. UI en español, con ejemplos listos y análisis en servidor.
 
 ## Requisitos
-- Bun
+- Bun (recomendado)
+- Node.js (puedes usarlo si prefieres `npm`/`pnpm`)
 - Docker (opcional para contenedor)
 
 ## Ejecución local
 ```sh
 bun install
 bun run dev
+# abre http://localhost:3000
+```
+
+Con Node.js (npm):
+```sh
+npm install
+npm run dev -- --hot src/index.ts
+# abre http://localhost:3000
+```
+
+Con Node.js (pnpm):
+```sh
+pnpm install
+pnpm run dev -- --hot src/index.ts
 # abre http://localhost:3000
 ```
 
