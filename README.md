@@ -17,14 +17,14 @@ bun run dev
 Con Node.js (npm):
 ```sh
 npm install
-npm run dev -- --hot src/index.ts
+npm run start:node
 # abre http://localhost:3000
 ```
 
 Con Node.js (pnpm):
 ```sh
 pnpm install
-pnpm run dev -- --hot src/index.ts
+pnpm run start:node
 # abre http://localhost:3000
 ```
 

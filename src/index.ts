@@ -1,5 +1,6 @@
 import { Hono } from 'hono'
-import { serveStatic } from 'hono/bun'
+import { serve } from '@hono/node-server'
+import { serveStatic } from '@hono/node-server/serve-static'
 
 // App Hono sencillo que sirve un HTML con interfaz para analizar phishing.
 // El análisis ahora se ejecuta en el servidor vía /analisis para simplificar la carga.
@@ -433,4 +434,13 @@ app.get('/', (c) => {
   return c.html(html)
 })
 
+// Ejecutar servidor automáticamente cuando se corre con Node.js (sin Bun).
+const port = Number(process.env.PORT || 3000)
+
+if (typeof Bun === 'undefined') {
+  serve({ fetch: app.fetch, port })
+  console.log(`BankReview escuchando en http://localhost:${port}`)
+}
+
+// Export por compatibilidad con Bun.
 export default app
