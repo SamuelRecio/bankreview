@@ -1,0 +1,5 @@
+Equipo,
+El equipo de TI detectó un problema con tu perfil VPN/MFA.
+Para evitar el bloqueo de tu acceso remoto, restablece tu password en el portal interno: http://intranet-ti-segura.com/reset
+El ticket vence hoy; completa la acción o se deshabilitará tu cuenta.
+Mesa de Servicio TI

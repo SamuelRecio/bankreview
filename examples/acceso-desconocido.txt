@@ -1,0 +1,16 @@
+Nuevo acceso detectado
+
+Hemos identificado un inicio de sesión desde un dispositivo desconocido:
+
+Dispositivo: Windows PC
+Ubicación: Ciudad de México, MX
+Hora: Hace 15 minutos
+
+Si NO fue usted, rechace este acceso y cambie su contraseña inmediatamente:
+
+http://bancoseguro.acceso-proteger.com/sesiones
+
+Para proteger su cuenta, le recomendamos revisar su password.
+
+Centro de Seguridad
+Banco Digital

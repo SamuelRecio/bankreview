@@ -1,0 +1,16 @@
+Alerta de Seguridad
+
+Detectamos una transacción sospechosa en su cuenta:
+
+Monto: $2,450.00
+Destino: Cuenta internacional
+Fecha: Hoy 03:42 AM
+
+Si usted NO autorizó esta transferencia, debe cancelarla de inmediato ingresando su código de verificación en:
+
+https://banco-seguro-mx.verification-auth.net/cancelar
+
+De lo contrario, el movimiento será procesado en las próximas 2 horas.
+
+Equipo Antifraude
+Banco Seguro

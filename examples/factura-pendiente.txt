@@ -1,0 +1,18 @@
+Notificación de Cobro
+
+Estimado cliente,
+
+Tiene una factura pendiente de pago que está vencida.
+
+Adeudo: $1,285.50
+Concepto: Servicio bancario
+Recargo por mora: $125.00
+
+Para evitar la suspensión de su servicio, liquide su adeudo de inmediato descargando la factura adjunta:
+
+http://pagos-banco-nacional.com/factura/descargar?id=84392
+
+El pago debe realizarse en las próximas 24 horas.
+
+Departamento de Cobranza
+Banco Nacional
